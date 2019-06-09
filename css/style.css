@@ -61,14 +61,14 @@ a.shop{
   margin-top: .9em;
 }
 .logo a {
-  color: #e21737;
+  color: #cf17e2;
   font-size: 3em;
   font-family: 'Alegreya', serif;
   text-decoration: none;
   font-weight: 600;
 }
 .logo a:hover {
-color:#e21737;
+color:#cf17e2;
 }
 .nav > li > a > img {
   max-width: none;
@@ -149,10 +149,10 @@ ul.callbacks_tabs.callbacks1_tabs {
 a.morebtn {
   padding: .7em 2.2em;
   font-size:1.15em;
-  border: 2px solid #e21737;
+  border: 2px solid #cf17e2;
   border-radius: 7px;
   text-transform: uppercase;
-  color: #e21737;
+  color: #cf17e2;
   display: inline-block;
   margin: 0 auto;
   transition: 0.5s all ease;
@@ -173,7 +173,7 @@ padding:6em 0;
 font-family: 'Alegreya', serif;
 text-align:center;
 margin:0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
 }
@@ -242,7 +242,7 @@ text-align:right;
 	font-size:1em;
 	border-radius: 2px;
 	display: inline-block;
-	background: #e21737;
+	background: #cf17e2;
 	color: #fff;
 }
 
@@ -272,7 +272,7 @@ text-align:right;
   font-weight: 600;
   font-size: 2em;
   font-family: 'Alegreya', serif;
-  color: #e21737;
+  color: #cf17e2;
   margin: 45px 0 10px 0;
 }
 
@@ -297,7 +297,7 @@ display: block;
 }
 .cat-head h3{
 font-family: 'Alegreya', serif;
-	 color:#e21737;
+	 color:#cf17e2;
   font-size: 2.5em;
 	 font-weight:600;
 }
@@ -316,7 +316,7 @@ font-family: 'Alegreya', serif;
   margin-top: 3em;
 }
 .cate-grid h4 {
-  color: #e21737;
+  color: #cf17e2;
   font-size: 1.5em;
   font-weight: 600;
   letter-spacing: 1px;
@@ -338,8 +338,8 @@ a.store {
   margin-top: 1.5em;
 }
 a.store:hover{
-	border:2px solid #e21737;
-	color:#e21737;
+	border:2px solid #cf17e2;
+	color:#cf17e2;
 }
 
 /*--contact--*/
@@ -352,7 +352,7 @@ a.store:hover{
 }
 .contact h3{
 font-family: 'Alegreya', serif;
-	color: #e21737;
+	color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
   margin-bottom:0.7em;
@@ -399,7 +399,7 @@ margin-right:0;
 }
 .contact form input[type="submit"] {
   color: #fff;
-  background:#e21737;
+  background:#cf17e2;
   font-size: 1.5em;
   font-weight: 700;
   text-decoration: none;
@@ -420,7 +420,7 @@ margin-right:0;
 }
 /*--footer--*/
 .footer {
-  background: #e21737;
+  background: #cf17e2;
   padding: 1em 0;
 }
 .logo2{
@@ -467,7 +467,7 @@ width:100%;
   font-family: 'Alegreya', serif;
   text-align: center;
   margin: 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
   }
@@ -485,7 +485,7 @@ margin-top:50px;
 .about-grid h4 {
   font-family: 'Alegreya', serif;
   margin: 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 20px;
   font-weight: bold;
 }
@@ -509,7 +509,7 @@ padding:6em 0;
 .team-bottom h4{
 margin:15px 0;
   font-family: 'Alegreya', serif;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 20px;
   font-weight: bold;
 }
@@ -524,7 +524,7 @@ line-height:1.8em;
   font-family: 'Alegreya', serif;
   text-align: center;
   margin: 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
 }
@@ -601,7 +601,7 @@ background: url(../images/themes.png) no-repeat -24px 0px;
   font-family: 'Alegreya', serif;
   text-align: center;
   margin: 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
 }
@@ -617,7 +617,7 @@ background: url(../images/themes.png) no-repeat -24px 0px;
 .people-text  h4 {
   font-family: 'Alegreya', serif;
 margin:1em 0 0 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 20px;
   font-weight: bold;
 }
@@ -644,7 +644,7 @@ text-transform:uppercase;
   font-family: 'Alegreya', serif;
   text-align: center;
   margin: 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
 }
@@ -794,7 +794,7 @@ h3.bars {
   font-family: 'Alegreya', serif;
   text-align: center;
   margin: 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
 }
@@ -1030,7 +1030,7 @@ padding:6em 0;
   font-family: 'Alegreya', serif;
   text-align: center;
   margin: 0;
-  color: #e21737;
+  color: #cf17e2;
   font-size: 2.5em;
   font-weight: 600;
 }
@@ -1055,7 +1055,7 @@ min-height:190px;
 .j-rg,.j-bl{
   padding: 1.55em 2em 0;
 text-align:center;
-background:#e21737;
+background:#cf17e2;
 }
 .j-rg h3,.j-bl h3{
 color:#fff;
@@ -1081,7 +1081,7 @@ min-height:270px;
 .pro-right,.pro-bright  {
   padding: 3.35em 2em 0;
   text-align: center;
-  background: #e21737;
+  background: #cf17e2;
 }
 .pro-right h3{
   color: #fff;
@@ -1163,7 +1163,7 @@ color: #fff;
 text-align:center;
 }
 .copy-right p a{
-color:#e21737;
+color:#cf17e2;
 }
 .copy-right p a:hover{
 color: #fff;
